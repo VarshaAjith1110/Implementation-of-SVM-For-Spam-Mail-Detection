@@ -23,6 +23,7 @@ Developed by: Varsha Ajith
 RegisterNumber:  212221230118
 */
 ```
+~~~
 import pandas as pd
 data=pd.read_csv("spam.csv",encoding='Windows-1252')
 
