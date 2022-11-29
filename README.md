@@ -61,14 +61,21 @@ y_pred
 from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
-
+~~~
 ## Output:
 ![v1](https://user-images.githubusercontent.com/94222288/204584685-b35c749c-3039-458b-af85-eb846870fb08.png)
+
 ![v2](https://user-images.githubusercontent.com/94222288/204584825-d9b1a69b-d5a2-42de-a686-05f0f0141180.png)
+
+
 ![v3](https://user-images.githubusercontent.com/94222288/204584862-93968ed3-3ce0-4a8c-80fe-2a9fc573ad5b.png)
+
 ![v4](https://user-images.githubusercontent.com/94222288/204584920-b0ceee3c-50f7-4279-b8d1-558d2efdf8e3.png)
+
 ![v5](https://user-images.githubusercontent.com/94222288/204584969-26247c53-2a8e-4462-bf09-f330425255d0.png)
+
 ![v6](https://user-images.githubusercontent.com/94222288/204585087-9e524a16-2e2f-412a-92da-cad15306773d.png)
+
 ![v7](https://user-images.githubusercontent.com/94222288/204585137-cee630d8-fa2b-4afa-8c6b-34e4ec0194af.png)
 
 
